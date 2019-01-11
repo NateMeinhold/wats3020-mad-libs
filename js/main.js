@@ -75,7 +75,7 @@ let thing3 = prompt('what is something you would give to someone you like', 'mon
 // TODO: A variable named "adjective4" for a word used to describe the vehicle.
 let adjective4 = prompt('One word to describe that method of transportation','fast');
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
-
+let adjective5 = prompt('what does it look like?','small');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
