@@ -34,7 +34,7 @@ let parking = prompt('Where do you leave your mode of transportation?','in the s
 let precious = prompt('What is something precious?','a diamond');
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
-let noiseMaker = prompt('What is something that makes a sound?', 'a violin');
+let noiseMaker = prompt('What is something that makes a sound?', 'violin');
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 let crowdBehavior = prompt('What do people sometimes do in crowds?','cheer');
