@@ -11,24 +11,30 @@
 // TODO: Write a prompt statement like the one below for each of the
 // variables listed.
 
-let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
+let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).','General');
 
 // Using the same prompt() command, populate the following variables:
 //
 // TODO: A variable named "authorName" for authorial attribution.
-let authorName = prompt('What is your full name?');
+let authorName = prompt('What is your full name?', 'Nate');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
+let adjective1 = prompt('Give me an Adjective','Sunny')
 
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
+let vehicle = prompt('What is a mode of Transportation?','car')
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
+let vehiclePart = prompt('What is an important part of that mode of transportation?','wheels')
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
+let parking = prompt('Where do you leave your mode of transportation?','in the street')
 
 // TODO: A variable named "precious" for a precious object.
+let precious = prompt('What is something precious?','a diamond')
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
+let noiseMaker = prompt('What is something that makes a sound?', 'a violin')
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 
